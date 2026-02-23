@@ -21,6 +21,8 @@ The dataset includes advertising spend across four channels:
 * Generated data-driven marketing insights
 
 Link to whole project via Google Collab: https://colab.research.google.com/drive/12LDbZ5vLI6InDlUc00b_14UfT7DFnr4f?usp=sharing#scrollTo=CSYVjKFjaAFN
+### Data sample: 
+<img width="582" height="196" alt="image" src="https://github.com/user-attachments/assets/1c3aa81a-b290-42c7-ad4d-f522f82c3292" />
 
 ### Result: 
 <img width="765" height="682" alt="image" src="https://github.com/user-attachments/assets/c9f8ea15-fd98-40c7-8163-52d1a4fad320" />
