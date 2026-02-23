@@ -1,5 +1,5 @@
 # Sales Prediction
-This project analyzes the impact of different advertising channels on product sales using exploratory data analysis and multiple linear regression modeling.
+This project analyzes the impact of different advertising channels on product sales using exploratory data analysis and linear regression modeling.
 
 Data source: https://raw.githubusercontent.com/sca-programming-school/datasets/main/sales_advertising.csv
 
